@@ -1,5 +1,5 @@
 $("div").click(function(){
-    $("#square").animate({
+    $("#square").css({
         
         width: '500px'
     

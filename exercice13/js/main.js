@@ -1,5 +1,5 @@
 $("div").click(function(){
-    $("#text").animate({
+    $("#text").css({
         
         fontSize: "50px"
     

@@ -1,7 +1,7 @@
 
 
 $("button").click(function(){
-    $("input[type=text]").val("Konexio!");
+    $("input").removeAttr("disabled");
 });
 
 
