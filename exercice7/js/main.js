@@ -1,3 +1,3 @@
 $("p").show(function(){
-    $("#text").css({"background-color": "red", "display": "Unset"});
+    $("#text").css({ "display": "Unset"});
 });
