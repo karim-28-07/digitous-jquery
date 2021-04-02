@@ -13,10 +13,7 @@ $("button").click(function () {
                     $("#capital").html(data[0].capital);
                 });
 
-                // console.log("country :", data[0].name);
-                // console.log("capital :", data[0].capital);
-
-
+                
 
             }
         });
