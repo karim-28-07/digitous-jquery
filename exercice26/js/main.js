@@ -1,3 +1,11 @@
-$("boutton").click(function(){
-    $("input").addClass("is-invalid");
-  });
+$(function(){
+  ​
+      $("button").click(function(){
+  ​
+          $("input").addClass("is-invalid")
+  ​
+      })
+  ​
+  })
+  ​
+  
